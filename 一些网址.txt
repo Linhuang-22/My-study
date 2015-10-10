@@ -1,0 +1,14 @@
+﻿http://www.ibm.com/developerworks/cn/web/1112_huangxa_websocket/index.html          websocket介绍
+以下是webscoket学习资料{
+	http://www.cnblogs.com/dolphinX/p/3460545.html，
+	http://www.cnblogs.com/dolphinX/p/3462898.html
+}
+http://www.25xt.com/html5css3/7407.html             webapp 框架选择
+http://www.cnblogs.com/Leo_wl/p/4787612.html              web前端环境搭建
+
+http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html     node.js+webscoket实现实时聊天室
+
+http://www.zhihu.com/question/20215561
+
+node.js 入门
+http://www.nodebeginner.org/index-zh-cn.html
