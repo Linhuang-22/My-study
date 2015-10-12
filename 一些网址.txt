@@ -10,5 +10,14 @@ http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html     node.js+
 
 http://www.zhihu.com/question/20215561
 
-node.js 入门
-http://www.nodebeginner.org/index-zh-cn.html
+
+
+http://career.ouc.edu.cn/html/zp_info/campus/		海大宣讲会行程安排
+
+
+
+
+http://www.nowcoder.com/discuss/3162    	狸宝宝的面经（好像不是同职业）
+
+
+https://developer.mozilla.org/zh-CN/docs/Web/API/FileReader			FileReader文档阅读
