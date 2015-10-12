@@ -21,3 +21,6 @@ http://www.nowcoder.com/discuss/3162    	狸宝宝的面经（好像不是同职
 
 
 https://developer.mozilla.org/zh-CN/docs/Web/API/FileReader			FileReader文档阅读
+
+
+#09A7CC			发现适合做简历的背景的蓝色
