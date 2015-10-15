@@ -24,3 +24,11 @@ https://developer.mozilla.org/zh-CN/docs/Web/API/FileReader			FileReader文档�
 
 
 #09A7CC			发现适合做简历的背景的蓝色
+
+
+
+http://www.pjhome.net/web/gif_maker/
+http://www.pjhome.net/article/Javascript/1044.htm        使用html5制作gif图片
+
+
+http://segmentfault.com/a/1190000000436544          使用WebRTC搭建前端视频聊天室——入门篇
