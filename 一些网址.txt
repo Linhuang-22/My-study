@@ -32,3 +32,20 @@ http://www.pjhome.net/article/Javascript/1044.htm        使用html5制作gif图
 
 
 http://segmentfault.com/a/1190000000436544          使用WebRTC搭建前端视频聊天室——入门篇
+
+
+解决输入框自适应的问题：
+http://segmentfault.com/q/1010000000095238
+http://alistapart.com/article/expanding-text-areas-made-elegant
+http://www.xuanfengge.com/textarea-on-how-to-achieve-a-high-degree-of-adaptive.html
+http://www.xuanfengge.com/demo/201308/textarea/demo2.html         实例
+http://www.zhangxinxu.com/wordpress/2010/12/div%E6%A8%A1%E6%8B%9Ftextarea%E6%96%87%E6%9C%AC%E5%9F%9F%E8%BD%BB%E6%9D%BE%E5%AE%9E%E7%8E%B0%E9%AB%98%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94/
+http://www.thinksaas.cn/group/topic/76174/      解决高度自适应
+
+http://www.haomou.net/2014/08/09/2014_ionic_api_css/    中文组件详解
+
+
+
+http://www.cnblogs.com/breakdown/p/4231708.html 博客
+
+http://blog.csdn.net/shenshucong520/article/details/48287811   解决ionic进入子页面后隐藏tabs
